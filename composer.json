@@ -1,9 +1,9 @@
 {
-    "name": "DBHash/session",
+    "name": "DBHashITrax/session",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "DBHash\\Session\\": "src/"
+            "DBHashITrax\\Session\\": "src/"
         }
     },
     "require": {}

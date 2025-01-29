@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'DBHash\\Session\\' => array($baseDir . '/src'),
+    'DBHashITrax\\Session\\' => array($baseDir . '/src'),
 );
