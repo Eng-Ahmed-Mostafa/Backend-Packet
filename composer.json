@@ -1,0 +1,10 @@
+{
+    "name": "ahmed/session",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ahmed\\Session\\": "src/"
+        }
+    },
+    "require": {}
+}
