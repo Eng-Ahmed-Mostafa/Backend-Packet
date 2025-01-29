@@ -1,5 +1,5 @@
 <?php
-namespace Ahmed\Session;
+namespace Hash\Session;
 class db
 {
     private $table;

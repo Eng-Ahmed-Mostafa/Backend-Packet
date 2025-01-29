@@ -1,9 +1,9 @@
 {
-    "name": "ahmed/session",
+    "name": "Hash/session",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Ahmed\\Session\\": "src/"
+            "Hash\\Session\\": "src/"
         }
     },
     "require": {}
