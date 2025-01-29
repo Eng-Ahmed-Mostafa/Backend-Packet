@@ -1,9 +1,9 @@
 {
-    "name": "Hash/session",
+    "name": "DBHash/session",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Hash\\Session\\": "src/"
+            "DBHash\\Session\\": "src/"
         }
     },
     "require": {}
